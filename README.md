@@ -8,8 +8,8 @@
 ╚════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ömer_Isbacar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oemer-isbacar)
-[![Umschulung](https://img.shields.io/badge/Umschulung-Fachinformatiker_Systemintegration-1a5cff?style=flat-square&logo=academia&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ömer_Isbacar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oemer-isbacar/)
+[![Umschulung](https://img.shields.io/badge/FIS-Fachinformatiker_Systemintegration-1a5cff?style=flat-square&logo=graduation-cap&logoColor=white)](#)
 
 </div>
 
