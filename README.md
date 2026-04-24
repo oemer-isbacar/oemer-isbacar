@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Über mich
 
-Hey, ich bin Ömer — aktuell in der Umschulung zum **Fachinformatiker Systemintegration (FIS)** und lerne nebenher alles was ich über Linux, Netzwerke und IT-Security in die Finger kriegen kann.
+Hi, ich bin Ömer — aktuell in der Umschulung zum **Fachinformatiker Systemintegration (FIS)** und lerne nebenher alles was ich über Linux, Netzwerke und IT-Security in die Finger kriegen kann.
 
 Mein Homelab ist mein Spielplatz: Ich experimentiere mit **Home Assistant**, **CasaOS** und **Ubuntu Server**, lerne Netzwerke zu verstehen und taste mich Schritt für Schritt an die Welt des Pentestings heran.
 
