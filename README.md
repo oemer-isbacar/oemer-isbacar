@@ -81,7 +81,7 @@ Mein Homelab ist mein Spielplatz: Ich experimentiere mit **Home Assistant**, **C
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=oemer-isbacar&style=flat-square&color=1a5cff)
+[![Profile views](https://komarev.com/ghpvc/?username=oemer-isbacar&style=flat-square&color=1a5cff)](https://github.com/oemer-isbacar)
 
 *„The only truly secure system is one that is powered off."* — Gene Spafford
 
