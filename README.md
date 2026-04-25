@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Über mich
 
-Hi, ich bin Ömer — aktuell in der Umschulung zum **Fachinformatiker Systemintegration (FIS)** und lerne nebenher alles was ich über Linux, Netzwerke und IT-Security in die Finger kriegen kann.
+Hey, ich bin Ömer — aktuell in der Umschulung zum **Fachinformatiker Systemintegration (FIS)** und lerne nebenher alles was ich über Linux, Netzwerke und IT-Security in die Finger kriegen kann.
 
 Mein Homelab ist mein Spielplatz: Ich experimentiere mit **Home Assistant**, **CasaOS** und **Ubuntu Server**, lerne Netzwerke zu verstehen und taste mich Schritt für Schritt an die Welt des Pentestings heran.
 
@@ -50,19 +50,19 @@ Mein Homelab ist mein Spielplatz: Ich experimentiere mit **Home Assistant**, **C
 
 **Security & Netzwerk**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org)
+[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 
 **Homelab & Infrastruktur**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
-![CasaOS](https://img.shields.io/badge/CasaOS-6C47FF?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)](https://www.home-assistant.io)
+[![CasaOS](https://img.shields.io/badge/CasaOS-6C47FF?style=flat-square&logo=linux&logoColor=white)](https://casaos.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com)
 
 ---
 
@@ -79,23 +79,11 @@ Mein Homelab ist mein Spielplatz: Ich experimentiere mit **Home Assistant**, **C
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oemer-isbacar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a5cff&icon_color=1a5cff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oemer-isbacar&theme=tokyonight&hide_border=true&background=0D1117&ring=1a5cff&fire=1a5cff&currStreakLabel=1a5cff)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=oemer-isbacar&style=flat-square&color=1a5cff)
 
-*„The quieter you become, the more you are able to hear."* — Kali Linux
+*„The only truly secure system is one that is powered off."* — Gene Spafford
 
 **FIS Umschüler · Homelab Enthusiast · Security Learner · Germany 🇩🇪**
 
