@@ -6,7 +6,7 @@
 
 # Ömer Isbacar
 
-Umschüler zum Fachinformatiker Systemintegration
+**Umschüler zum Fachinformatiker Systemintegration**
 
 [![GitHub](https://img.shields.io/badge/github-oemer--isbacar-c8ff57?style=flat-square&logo=github&logoColor=black&labelColor=0e0e0c)](https://github.com/oemer-isbacar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-oemerisbacar-c8ff57?style=flat-square&logo=linkedin&logoColor=black&labelColor=0e0e0c)](https://www.linkedin.com/in/oemerisbacar/)
@@ -24,9 +24,7 @@ Seit 2013 bin ich gelernter **Kfz-Mechatroniker** und hab seitdem ausschließlic
 
 Den Anstoß dazu gab mir **Home Assistant**. Ein Raspberry Pi, ein bisschen Smart Home, und plötzlich hab ich gemerkt dass mir diese Art von Technik nicht nur Spaß macht, sondern echte Energie gibt. Ich hab angefangen zu tüfteln, zu lesen, ein eigenes Homelab aufzubauen. Irgendwann war der Entschluss klar: Hobby wird Beruf.
 
-Seit Anfang 2026 mache ich die **Umschulung zum Fachinformatiker Systemintegration**. Was mich antreibt ist breit gefächert. Netzwerke und Hardware liegen mir im Blut, das ist mein erster Beruf nur in einer anderen Sprache. Security fasziniert mich weil mich die Denkweise dahinter interessiert, nicht weil es gut klingt. Und Linux, Docker, Automatisierung, das ist der Spielplatz.
-
-Was mich antreibt hat sich eigentlich nie verändert. Dieses Gefühl wenn etwas nicht funktioniert, man sich durchbeißt, und es dann plötzlich doch tut. In der Automobilindustrie war das der Kern meiner Arbeit. In der IT ist das kein Ausnahmefall, das ist der Alltag.
+Seit Anfang 2026 mache ich die **Umschulung zum Fachinformatiker Systemintegration**. Netzwerke und Hardware liegen mir im Blut. Security fasziniert mich weil mich die Denkweise dahinter interessiert, nicht weil es gut klingt. Und Linux, Docker, Automatisierung, das ist der Spielplatz.
 
 ---
 
@@ -34,7 +32,28 @@ Was mich antreibt hat sich eigentlich nie verändert. Dieses Gefühl wenn etwas 
 // homelab & tools
 ```
 
-`Windows Server` `Active Directory` `Linux` `Netzwerk` `TCP/IP` `Virtualisierung` `Docker` `Bash` `PowerShell` `SQL` `Java` `Wireshark` `Nmap` `Kali Linux` `Home Assistant`
+| Bereich | Tools |
+|---|---|
+| **Betriebssysteme** | Windows Server · Linux · Ubuntu Server · Kali Linux |
+| **Netzwerk** | TCP/IP · VLANs · Wireshark · Nmap · Pi-hole |
+| **Infrastruktur** | Active Directory · Virtualisierung · Docker |
+| **Scripting** | Bash · PowerShell |
+| **Entwicklung** | Java · SQL · HTML · CSS |
+| **Security** | Kali Linux · Nmap · Wireshark · Burp Suite |
+| **Homelab** | Home Assistant · Raspberry Pi · CasaOS |
+
+---
+
+```
+// security learning path
+```
+
+```
+TryHackMe    [██████░░░░░░░░░░░░░░]
+HackTheBox   [███░░░░░░░░░░░░░░░░░]
+Kali Linux   [████░░░░░░░░░░░░░░░░]
+CTF Writeups [░░░░░░░░░░░░░░░░░░░░] — kommt bald
+```
 
 ---
 
@@ -42,10 +61,17 @@ Was mich antreibt hat sich eigentlich nie verändert. Dieses Gefühl wenn etwas 
 // projekte
 ```
 
-> Kommt in Kürze.
+| Repo | Beschreibung | Status |
+|---|---|---|
+| `network-notes` | Lernnotizen zu Netzwerkprotokollen & Cisco | 🔧 In Arbeit |
+| `homelab-setup` | Dokumentation meines HA + CasaOS Setups | 📋 Geplant |
+| `ctf-writeups` | Lösungswege von THM / HTB Challenges | 📋 Geplant |
+| `kali-cheatsheet` | Eigene Sammlung nützlicher Befehle & Tools | 📋 Geplant |
 
 ---
 
 <div align="center">
-<sub>© 2026 Ömer Isbacar</sub>
+
+*„The only truly secure system is one that is powered off."* — Gene Spafford
+
 </div>
