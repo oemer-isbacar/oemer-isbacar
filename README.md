@@ -21,12 +21,11 @@
 | Bereich | Tools |
 |---|---|
 | **Betriebssysteme** | Windows Server · Linux · Ubuntu Server · Kali Linux |
-| **Netzwerk** | TCP/IP · VLANs · Wireshark · Nmap |
+| **Netzwerk & Security** | TCP/IP · VLANs · Nmap · Wireshark · Burp Suite |
 | **Infrastruktur** | Active Directory · Virtualisierung · Docker |
 | **Scripting** | Bash · PowerShell |
 | **Entwicklung** | Java · SQL · HTML · CSS |
-| **Security** | Nmap · Wireshark · Burp Suite · Kali Linux |
-| **Homelab** | Home Assistant · Raspberry Pi · CasaOS |
+| **Homelab** | Home Assistant · Pi-hole |
 
 ---
 
