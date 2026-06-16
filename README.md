@@ -1,34 +1,22 @@
-<div align="center">
+# Ömer Işbacar
 
-```
-işbacar.
-```
+Umschüler zum Fachinformatiker für Systemintegration am BFW Schömberg.
+Vorher über zehn Jahre Kfz-Mechatroniker — die Denkweise ist dieselbe geblieben, nur die Systeme haben sich geändert.
 
-**Umschüler zum Fachinformatiker für Systemintegration**
-
-[![Website](https://img.shields.io/badge/website-isbacar.de-93c178?style=for-the-badge&logo=googlechrome&logoColor=0a0907&labelColor=16150f)](https://oemer-isbacar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oemerisbacar-93c178?style=for-the-badge&logo=linkedin&logoColor=0a0907&labelColor=16150f)](https://www.linkedin.com/in/oemerisbacar/)
-
-</div>
+Ich lerne am liebsten durch Tun. Mein Homelab läuft produktiv, nicht als Spielzeug.
 
 ---
 
-Als gelernter Kfz-Mechatroniker habe ich über zehn Jahre gelernt, wie komplexe Systeme zusammenhängen und warum Details über Erfolg oder Ausfall entscheiden. Diese Denkweise trage ich heute in die IT. Seit meiner Umschulung zum Fachinformatiker für Systemintegration lebe ich das, was ich lerne, in einem produktiven Homelab, das rund um die Uhr läuft.
-
----
-
-```
-// homelab
-```
+### Homelab
 
 | Service | Zweck |
 |---|---|
-| Nextcloud + Collabora | Eigene Cloud mit Office |
+| Nextcloud + Collabora | Cloud mit eigenem Office |
 | Immich | Foto- und Videoverwaltung |
 | Paperless-NGX | Dokumentenarchiv mit OCR |
 | Home Assistant | Smarthome-Zentrale |
 | Frigate + Coral TPU | KI-Kameraerkennung, lokal |
-| Gitea | Eigenes Git-Hosting |
+| Gitea | Git-Hosting |
 | AdGuard Home | DNS-Blocker im Heimnetz |
 | Vaultwarden | Passwort-Manager |
 | Uptime Kuma | Service-Monitoring |
@@ -37,32 +25,27 @@ Als gelernter Kfz-Mechatroniker habe ich über zehn Jahre gelernt, wie komplexe 
 
 ---
 
-```
-// womit ich arbeite
-```
+### Womit ich arbeite
 
-| Bereich | Tools |
-|---|---|
-| **Betriebssysteme** | Ubuntu Server · Windows Server · Kali Linux |
-| **Netzwerk** | TCP/IP · VLANs · DNS · DHCP · Hyper-V |
-| **Administration** | Active Directory · Docker · Cloudflare |
-| **IT-Security** | TryHackMe · HackTheBox · Nmap |
-| **Scripting** | Bash · Java · Python |
+**Betriebssysteme** — Ubuntu Server, Windows Server, Kali Linux
 
----
+**Netzwerk & Admin** — TCP/IP, VLANs, DNS, DHCP, Active Directory, Hyper-V
 
-```
-// praktikum
-```
+**Container & Zugriff** — Docker, Cloudflare Tunnel
 
-Ich suche ein sechsmonatiges Pflichtpraktikum vom **01.02.2027 bis 30.07.2027** im Rahmen meiner Umschulung am BFW Schömberg. Für Ihr Unternehmen entstehen keine Kosten, da die Vergütung über meinen Bildungsträger abgedeckt ist.
+**IT-Security** — TryHackMe, HackTheBox, Nmap
 
-📬 [hallo@isbacar.de](mailto:hallo@isbacar.de)
+**Scripting** — Bash, Java, Python
 
 ---
 
-<div align="center">
+### Praktikum
+
+Ich suche ein Pflichtpraktikum vom **01.02.2027 bis 30.07.2027**.
+Für Ihr Unternehmen entstehen keine Kosten — die Vergütung läuft über meinen Bildungsträger.
+
+[hallo@isbacar.de](mailto:hallo@isbacar.de) · [isbacar.de](https://oemer-isbacar.github.io) · [LinkedIn](https://www.linkedin.com/in/oemerisbacar/)
+
+---
 
 *„The only truly secure system is one that is powered off."* — Gene Spafford
-
-</div>
